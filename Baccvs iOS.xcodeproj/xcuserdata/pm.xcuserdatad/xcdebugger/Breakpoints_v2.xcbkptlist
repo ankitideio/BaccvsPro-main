@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "29D0744D-DE96-4578-BD53-63D6A1BA0973"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBF7C2A5-D771-422A-A2EA-7EEC5B2C0C99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/Views/ResetView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BBF7C2A5-D771-422A-A2EA-7EEC5B2C0C99 - 422c1c1d8ec36379"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in Baccvs_iOS.ResetView.body.getter : some"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/Views/ResetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "3748">
+               </Location>
+               <Location
+                  uuid = "BBF7C2A5-D771-422A-A2EA-7EEC5B2C0C99 - 85067241936a1bbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in Baccvs_iOS.ResetView.body.getter : some"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/Views/ResetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "BBF7C2A5-D771-422A-A2EA-7EEC5B2C0C99 - 422c1c1d8ec36379"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in Baccvs_iOS.ResetView.body.getter : some"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/Views/ResetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "4476">
+               </Location>
+               <Location
+                  uuid = "BBF7C2A5-D771-422A-A2EA-7EEC5B2C0C99 - 422c1c1d8ec36379"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in Baccvs_iOS.ResetView.body.getter : some"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/Views/ResetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "3644">
+               </Location>
+               <Location
+                  uuid = "BBF7C2A5-D771-422A-A2EA-7EEC5B2C0C99 - 85067241936a1bbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in Baccvs_iOS.ResetView.body.getter : some"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/Views/ResetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B55021FB-8776-4590-BE28-DF260FCBE468"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/ResGroupLikeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "ResGroupLikeViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6579CCA9-7393-40E9-89B3-C2B8A4AED40B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/ResGroupLikeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "ResGroupLikeViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FD500E7-4AC7-442C-A52D-D7F6D171C18F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/BlockUserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "blockUser(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FD500E7-4AC7-442C-A52D-D7F6D171C18F - bc158ff6fae4f9f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.BlockUserViewModel.blockUser(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/BlockUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "5FD500E7-4AC7-442C-A52D-D7F6D171C18F - bc158ff6fae4f9f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.BlockUserViewModel.blockUser(completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/BlockUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC4DE872-8128-4501-8D37-7141904AA2FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/FollowingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "followingUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC4DE872-8128-4501-8D37-7141904AA2FB - ba8db484ab949722"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowingViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "FC4DE872-8128-4501-8D37-7141904AA2FB - ba8db484ab949722"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowingViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F3CD5BC-2D65-45C7-9322-E09605CF0EB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/FollowingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "followingUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F3CD5BC-2D65-45C7-9322-E09605CF0EB2 - c4581f818bfa2d82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.FollowingViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "4F3CD5BC-2D65-45C7-9322-E09605CF0EB2 - c4581f818bfa2d82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.FollowingViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07163DD9-23DC-45AC-9D60-A4B0D4FCF242"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/FollowingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "followingUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07163DD9-23DC-45AC-9D60-A4B0D4FCF242 - 1ca44fc49262f21f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.FollowingViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "07163DD9-23DC-45AC-9D60-A4B0D4FCF242 - 1ca44fc49262f21f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.FollowingViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EC0BDB5-79B5-4D22-ABF8-07C136073E6B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/UdateGroupVeiwModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "updateGroup()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1EC0BDB5-79B5-4D22-ABF8-07C136073E6B - 4f598d0a6b1a8f22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetGroupUpdateModel) -&gt; () in Baccvs_iOS.UdpateGroupVeiwModel.updateGroup() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UdateGroupVeiwModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "1EC0BDB5-79B5-4D22-ABF8-07C136073E6B - 4f598d0a6b1a8f22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetGroupUpdateModel) -&gt; () in Baccvs_iOS.UdpateGroupVeiwModel.updateGroup() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UdateGroupVeiwModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2B3B6BF-5020-4BD6-B1B8-9DEFA7FD9ECA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/UdateGroupVeiwModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "updateGroup()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2B3B6BF-5020-4BD6-B1B8-9DEFA7FD9ECA - 8f609229d59f9fba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.UdpateGroupVeiwModel.updateGroup() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UdateGroupVeiwModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "B2B3B6BF-5020-4BD6-B1B8-9DEFA7FD9ECA - 8f609229d59f9fba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.UdpateGroupVeiwModel.updateGroup() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UdateGroupVeiwModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D9E8A37-CC85-4217-B74C-B5A94E929CEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/UdateGroupVeiwModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "updateGroup()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D9E8A37-CC85-4217-B74C-B5A94E929CEA - 8807c8bfb5624a48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.UdpateGroupVeiwModel.updateGroup() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UdateGroupVeiwModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "339">
+               </Location>
+               <Location
+                  uuid = "8D9E8A37-CC85-4217-B74C-B5A94E929CEA - 8807c8bfb5624a48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.UdpateGroupVeiwModel.updateGroup() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UdateGroupVeiwModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3D69738-6986-44AC-86F6-C14270B9EE99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/FollowerUserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "followingUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3D69738-6986-44AC-86F6-C14270B9EE99 - b98000cc77f3d59f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "454">
+               </Location>
+               <Location
+                  uuid = "D3D69738-6986-44AC-86F6-C14270B9EE99 - b98000cc77f3d59f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "D3D69738-6986-44AC-86F6-C14270B9EE99 - d29edb191df5a4d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "546">
+               </Location>
+               <Location
+                  uuid = "D3D69738-6986-44AC-86F6-C14270B9EE99 - d29edb191df5a4d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02423E84-CE55-49B7-BEFA-6684556631D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/FollowerUserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "followingUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02423E84-CE55-49B7-BEFA-6684556631D8 - bdbfb817d6bb501a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "02423E84-CE55-49B7-BEFA-6684556631D8 - bdbfb817d6bb501a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "02423E84-CE55-49B7-BEFA-6684556631D8 - d29edb191df5a73e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+               <Location
+                  uuid = "02423E84-CE55-49B7-BEFA-6684556631D8 - d29edb191df5a73e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "1472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59092DD8-E356-4189-B4CB-7C876C3B0825"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/FollowerUserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234">
+            <Locations>
+               <Location
+                  uuid = "59092DD8-E356-4189-B4CB-7C876C3B0825 - d29edb191df5a627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "59092DD8-E356-4189-B4CB-7C876C3B0825 - d29edb191df5a627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetFollowingModel) -&gt; () in Baccvs_iOS.FollowerUserViewModel.followingUser() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/FollowerUserViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85240B85-0E88-42D8-AF88-03230CA572BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/CreatePostViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "groupPost()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85240B85-0E88-42D8-AF88-03230CA572BD - a1314cb7ea718bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.CreatePostViewModel.groupPost() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CreatePostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "85240B85-0E88-42D8-AF88-03230CA572BD - a1314cb7ea718bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.CreatePostViewModel.groupPost() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CreatePostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C7857E3-18CE-4597-8C81-EC0F4EAB4325"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/CreatePostViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "groupPost()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C7857E3-18CE-4597-8C81-EC0F4EAB4325 - 55a322705a7e8283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetPostModel) -&gt; () in Baccvs_iOS.CreatePostViewModel.groupPost() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CreatePostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "698">
+               </Location>
+               <Location
+                  uuid = "0C7857E3-18CE-4597-8C81-EC0F4EAB4325 - 55a322705a7e8283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetPostModel) -&gt; () in Baccvs_iOS.CreatePostViewModel.groupPost() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CreatePostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31A2C7D2-6F44-45D8-BCED-21DA18616377"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/UpdateProfileInformViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "updateProfileInform()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31A2C7D2-6F44-45D8-BCED-21DA18616377 - 64bbfc2adaa70c9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "31A2C7D2-6F44-45D8-BCED-21DA18616377 - 64bbfc2adaa70c9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59A7E7E5-C503-48A5-9D0E-8CA617D242E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/UpdateProfileInformViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "updateProfileInform()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "59A7E7E5-C503-48A5-9D0E-8CA617D242E2 - 99e4178e0f3d3e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetUpdateProfileModel) -&gt; () in Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "59A7E7E5-C503-48A5-9D0E-8CA617D242E2 - 99e4178e0f3d3e18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetUpdateProfileModel) -&gt; () in Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0507E3BB-840D-4A3C-94C3-C591CEC303BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/UpdateProfileInformViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "updateProfileInform()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0507E3BB-840D-4A3C-94C3-C591CEC303BF - df424db81ff196f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "0507E3BB-840D-4A3C-94C3-C591CEC303BF - df424db81ff196f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4337F62-08BF-47FA-B7EF-D0CFBCB426C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/UpdateProfileInformViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "updateProfileInform()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4337F62-08BF-47FA-B7EF-D0CFBCB426C6 - df424db81ff196d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "E4337F62-08BF-47FA-B7EF-D0CFBCB426C6 - df424db81ff196d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.UpdateProfileInformViewModel.updateProfileInform() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/UpdateProfileInformViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD44CE04-749A-4252-8B78-DDEAAE12530E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/CheckReferralCodeViewMode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "referral()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD44CE04-749A-4252-8B78-DDEAAE12530E - 10fdc62aa6bc6fa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.CheckReferralCodeViewMode.referral() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CheckReferralCodeViewMode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "AD44CE04-749A-4252-8B78-DDEAAE12530E - 10fdc62aa6bc6fa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in Baccvs_iOS.CheckReferralCodeViewMode.referral() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CheckReferralCodeViewMode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "179">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A45C593-358B-4099-8A18-133C9B6662D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/CheckReferralCodeViewMode.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "referral()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A45C593-358B-4099-8A18-133C9B6662D3 - a6373be740801231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Baccvs_iOS.GetCreateReferralCodeModel) -&gt; () in Baccvs_iOS.CheckReferralCodeViewMode.referral() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CheckReferralCodeViewMode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1373">
+               </Location>
+               <Location
+                  uuid = "1A45C593-358B-4099-8A18-133C9B6662D3 - d7c0fc80cad01b1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Baccvs_iOS.GetReferralCodeModel) -&gt; () in Baccvs_iOS.CheckReferralCodeViewMode.referral() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CheckReferralCodeViewMode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1375">
+               </Location>
+               <Location
+                  uuid = "1A45C593-358B-4099-8A18-133C9B6662D3 - d7c0fc80cad01b1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Baccvs_iOS.GetReferralCodeModel) -&gt; () in Baccvs_iOS.CheckReferralCodeViewMode.referral() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/CheckReferralCodeViewMode.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9BB33F1-50B5-4F02-B8B1-059C62FBF0F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/VerifyOtpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "verifyOTP()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9BB33F1-50B5-4F02-B8B1-059C62FBF0F1 - 85b406426dd4f1be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetVerifyOtpModel) -&gt; () in Baccvs_iOS.VerifyOtpViewModel.verifyOTP() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/VerifyOtpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "C9BB33F1-50B5-4F02-B8B1-059C62FBF0F1 - 85b406426dd4f1be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Baccvs_iOS.GetVerifyOtpModel) -&gt; () in Baccvs_iOS.VerifyOtpViewModel.verifyOTP() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/VerifyOtpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "698">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3EA4A24-925D-4C19-9A57-25792CBC719A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/VerifyOtpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "verifyOTP()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D3EA4A24-925D-4C19-9A57-25792CBC719A - 533c300f71f2f5c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.VerifyOtpViewModel.verifyOTP() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/VerifyOtpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "D3EA4A24-925D-4C19-9A57-25792CBC719A - 533c300f71f2f5c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.VerifyOtpViewModel.verifyOTP() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/VerifyOtpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "455">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57C453B3-385E-4636-A1EC-8A8F5B35A2DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Baccvs iOS/ViewModel/VerifyOtpViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "verifyOTP()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57C453B3-385E-4636-A1EC-8A8F5B35A2DB - 533c300f71f2f44b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.VerifyOtpViewModel.verifyOTP() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/VerifyOtpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2484">
+               </Location>
+               <Location
+                  uuid = "57C453B3-385E-4636-A1EC-8A8F5B35A2DB - 533c300f71f2f44b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Baccvs_iOS.VerifyOtpViewModel.verifyOTP() -&gt; ()"
+                  moduleName = "Baccvs iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pm/Documents/BaccvsPro/Baccvs%20iOS/ViewModel/VerifyOtpViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
